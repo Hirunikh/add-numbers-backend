@@ -1,0 +1,11 @@
+## todo 
+- document everything in markdown (learn markdown basics)
+- [x] select a webframework for backend (flask..etc)
+- GitHub branching 
+- [x] frontend (javascript) - react
+- [x] create a single API for get sum
+- Design Frontend
+- write backend unit test cases
+- [x] write frontend unit test cases
+- SonarQube
+- Build - Jenkins
